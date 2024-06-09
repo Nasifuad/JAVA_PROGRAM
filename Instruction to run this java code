@@ -1,0 +1,3 @@
+Open terminal or command prompt, navigate to the directory where the word_count.java file is located, and compile the program using the javac command: javac word_count.java
+Enter the text for testing
+An output wil show
